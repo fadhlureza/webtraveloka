@@ -304,7 +304,6 @@ export default function App() {
           justifyContent: 'space-between',
           alignItems: 'center',
           padding: '10px 20px',
-          borderBottom: '1px solid white',
           backgroundColor: isScrolled ? 'white' : 'rgba(255, 255, 255, 0)',
           borderBottom: isScrolled ? '1px solid black' : 'none',
           position: 'fixed',
