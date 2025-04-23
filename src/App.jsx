@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Logo from './assets/logo.webp';
+import Logo from './assets/Logo.webp';
 import Background from './assets/bg-bali.jpg';
 import Singapura from './assets/singapura.jpg';
 import Malaysia from './assets/malaysia.jpg';
